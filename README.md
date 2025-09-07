@@ -1,12 +1,12 @@
-# Hi 👋, I'm Ann Sayuri S. Kotikawaththa
+# Hi 👋 I'm Ann Sayuri S. Kotikawaththa
 
 A passionate frontend and backend developer from Sri Lanka
 
 ---
 
 - 🏫 I’m currently studying at [BCI Campus](https://bci.lk/) and University of Colombo School of Computing.
-- 🌱 I’m currently learning **HTML, Python, CSS, JavaScript, Java, C++, MySQL, R, PHP**.
-- 💬 Ask me about **AI, Cyber Security, Python, Java, HTML, CSS, JavaScript, C++**.
+- 🌱 I’m good at **HTML, Python, CSS, JavaScript, Java, C++, MySQL, R, PHP**.
+- 💬 Ask me about **Python, Java, HTML, CSS, JavaScript,MySQL, R, PHP**.
 - 📫 How to reach me: [annsayu12@gmail.com](mailto:annsayu12@gmail.com)
 - ✨ Fun fact: *I'm very interested in AI and Cyber Security!*
 
