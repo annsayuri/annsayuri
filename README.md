@@ -51,17 +51,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annsayuri&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=annsayuri&theme=radical&fire=FF6B8B" alt="GitHub Streak" />
 </p>
 
----
 
-## 🎯 Coding Activity & Contributions
 
-### 📊 Contribution Metrics
+# 🎯 Coding Activity & Contributions
+
+## 📊 Coding Activity
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annsayuri&theme=radical" alt="Profile Details" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annsayuri&theme=radical" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annsayuri&theme=radical" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annsayuri&theme=radical" height="180em"/>
 </p>
+
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
@@ -69,6 +73,21 @@
 <!--END_SECTION:activity-->
 
 ---
+
+
+### 📊 Weekly Development Breakdown
+
+Python        ██████████░░░░░░░░░░░   45%  <br>
+Java          ██████░░░░░░░░░░░░░░░   25%  <br>
+HTML/CSS      ████░░░░░░░░░░░░░░░░░   15%  <br>
+JavaScript    ███░░░░░░░░░░░░░░░░░░   10%  <br>
+Other         ██░░░░░░░░░░░░░░░░░░░    5%  <br>
+
+### Badges
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge) <br>
+![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge)  <br>
+![Web Development](https://img.shields.io/badge/FullStack-Proficient-FF6B8B?style=for-the-badge)
 
 ## 🌟 Featured Projects
 
