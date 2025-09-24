@@ -1,44 +1,95 @@
-# Hi 👋 I'm Ann Sayuri S. Kotikawaththa
+# 👋 Hello, I'm Ann Sayuri S. Kotikawaththa
 
-A passionate frontend and backend developer from Sri Lanka
+### 💻 Full-Stack Developer | AI & Cyber Security Enthusiast | Sri Lanka
 
----
-
-- 🏫 I’m currently studying at [BCI Campus](https://bci.lk/) and University of Colombo School of Computing.
-- 🌱 I’m good at **HTML, Python, CSS, JavaScript, Java, C++, MySQL, R, PHP**.
-- 💬 Ask me about **Python, Java, HTML, CSS, JavaScript,MySQL, R, PHP**.
-- 📫 How to reach me: [annsayu12@gmail.com](mailto:annsayu12@gmail.com)
-- ✨ Fun fact: *I'm very interested in AI and Cyber Security!*
-
----
-
-## Connect with me
-
-[![LinkedIn: Sayuri Kotikawaththa](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayuri-kotikawaththa)
-
----
-## Languages and Tools:
-
-<!-- Row of large logos for your languages/tools -->
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/276DC3/r.png" alt="R" height="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B8B&center=true&vCenter=true&width=435&lines=Passionate+Developer;AI+Enthusiast;Cyber+Security+Learner;Full-Stack+Specialist" alt="Typing SVG" />
 </p>
----
-
-## 📊 GitHub Stats
-
-![Ann Sayuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=annsayuri&show_icons=true&hide_title=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annsayuri&layout=compact&theme=radical)
 
 ---
 
-<!-- You can add a cool profile illustration here! -->
-<img src="https://raw.githubusercontent.com/kevinhiros8/kevinhiros8/main/assets/code.gif" alt="Coding" width="400"/>
+## 🎓 About Me
+
+- 🏫 Currently studying at **BCI Campus** and **University of Colombo School of Computing**
+- 🌱 Proficient in **Full-Stack Development** with expertise in both frontend and backend technologies
+- 🔭 Exploring **AI/ML** and **Cyber Security** concepts
+- 💡 Passionate about creating efficient, scalable, and secure applications
+- 📫 Reach me at: **[annsayu12@gmail.com](mailto:annsayu12@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Backend Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Data Science & Analytics**
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annsayuri&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annsayuri&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annsayuri&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🎯 Coding Activity & Contributions
+
+### 📊 Contribution Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annsayuri&theme=radical" alt="Profile Details" width="100%"/>
+</p>
+
+### 🔥 Recent Activity
+<!--START_SECTION:activity-->
+*I contribute regularly to various projects - check my GitHub for the latest updates!*
+<!--END_SECTION:activity-->
+
+---
+
+## 🌟 Featured Projects
+
+### 🎯 Current Focus Projects
+- **AI-Powered Web Application** - Developing intelligent solutions using Python and ML
+- **Secure E-commerce Platform** - Building a cyber-secure online shopping experience
+- **University Projects** - Academic projects focusing on full-stack development
+
+### 🔧 Technical Skills Breakdown
+| Category        | Technologies                               |
+|-----------------|--------------------------------------------|
+| **Frontend**    | HTML5, CSS3, JavaScript                    |
+| **Backend**     | Python, Java, PHP, C++                     |
+| **Database**    | MySQL                                      |
+| **Analytics**   | R Programming                              |
+| **Tools**       | Git, GitHub, VS Code                       |
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:annsayu12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for
