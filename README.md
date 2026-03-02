@@ -59,12 +59,12 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/annsayuri">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=annsayuri&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/annsayuri">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annsayuri&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320"/>
-  </a>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=annsayuri&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annsayuri&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annsayuri&theme=radical" width="100%"/>
 </p>
 
 <p align="center">
