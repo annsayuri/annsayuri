@@ -91,7 +91,7 @@ Other         ██░░░░░░░░░░░░░░░░░░░   
 
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=annsayuri&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=annsayuri&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
