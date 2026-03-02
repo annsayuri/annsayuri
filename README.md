@@ -55,33 +55,21 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🤖 AI-Powered Web Application
-> Developing an intelligent web solution integrating Python and machine learning models to deliver smart, data-driven features for end users.
-
-### 🛒 Secure E-Commerce Platform
-> Building a cybersecurity-focused online shopping platform with attention to authentication, data protection, and secure transactions.
-
-### 🎓 University Full-Stack Projects
-> Academic projects at UCSC covering full-stack development, database design, and software engineering best practices.
-
----
 
 ## 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/annsayuri">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=annsayuri&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/annsayuri">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annsayuri&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320"/>
+  </a>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=annsayuri&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annsayuri&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=annsayuri&theme=radical&fire=FF6B8B&hide_border=true" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=annsayuri&theme=radical&fire=FF6B8B&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
