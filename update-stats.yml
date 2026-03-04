@@ -1,0 +1,53 @@
+# 🤖 GitHub Actions Workflow
+# File: .github/workflows/update-stats.yml
+# ─────────────────────────────────────────────
+# Automatically runs update_github_stats.py every day at midnight!
+# Just drop this file into your profile repo and you're done 🎉
+
+name: 🌟 Update GitHub Stats Daily
+
+on:
+  # ⏰ Runs every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+
+  # 🖱️ Also lets you trigger it manually from GitHub UI
+  workflow_dispatch:
+
+  # 🔄 Runs on every push too (great for testing!)
+  push:
+    branches:
+      - main
+
+jobs:
+  update-stats:
+    name: 🚀 Refresh Profile Stats
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # ✅ Allows committing to the repo
+
+    steps:
+      # 📥 Step 1: Checkout your profile repo
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      # 🐍 Step 2: Set up Python
+      - name: 🐍 Set Up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 📦 Step 3: Install dependencies
+      - name: 📦 Install Dependencies
+        run: |
+          pip install requests PyGithub python-dotenv
+
+      # 🏃 Step 4: Run the stats updater script
+      - name: 🔄 Run Stats Updater
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 🔑 Auto-provided by GitHub!
+        run: |
+          python update_github_stats.py
+
+      # ✅ Done! Changes are committed inside the Python script itself.
