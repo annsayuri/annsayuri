@@ -122,6 +122,6 @@ Other         ██░░░░░░░░░░░░░░░░░░░   
 
 [![GitHub Followers](https://img.shields.io/github/followers/annsayuri?label=Follow%20Me&style=social)](https://github.com/annsayuri)
 
-*⚡ "Code is like humor. When you have to explain it, it's bad." — Cory House*
+*⚡ "Code is like humor. When you have to explain it, it's bad." — Cory House...*
 
 </div>
