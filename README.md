@@ -55,7 +55,6 @@
 
 ---
 
-
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -63,17 +62,17 @@
 </p>
 
 ---
-
-## 🎯 Coding Activity & Contributions
-
+## 📊 Modern GitHub Stats Dashboard
 <div align="center">
+  
+# 🌟 Activity Graph
+<a href="https://github.com/annsayuri"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=annsayuri&theme=react-dark&bg_color=141321&hide_border=true&area=true&color=FF6B8B&line=FF6B8B&point=FFFFFF" width="100%"/> </a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annsayuri&theme=radical" width="100%"/>
+## 🎯 Contribution Metrics
+<table> <tr> <td width="33.3%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annsayuri&theme=radical" width="100%"/> </td> </tr> <tr> <td width="33.3%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annsayuri&theme=radical" width="100%"/> </td> <td width="33.3%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annsayuri&theme=radical" width="100%"/> </td> <td width="33.3%"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=annsayuri&theme=radical&utcOffset=5.5" width="100%"/> </td> </tr> </table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annsayuri&theme=radical" height="180em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annsayuri&theme=radical" height="180em"/>
-
-</div>
+## 🔥 Contribution Calendar
+<img src="https://github-contributor-stats.vercel.app/api?username=annsayuri&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="100%"/></div>
 
 ### 📊 Weekly Development Breakdown
 
