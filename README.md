@@ -103,6 +103,8 @@ Other         ██░░░░░░░░░░░░░░░░░░░   
 | 🔧 **Tools** | Git, GitHub, VS Code |
 | 🔐 **Interests** | AI/ML, Cybersecurity |
 
+<div align="center">
+
 ---
 
 ## 💫 Fun Facts About Me
@@ -112,9 +114,6 @@ Other         ██░░░░░░░░░░░░░░░░░░░   
 - 🌐 **Full-Stack Developer** — I enjoy both the creativity of frontend design and the logic of backend engineering
 - 📚 **Lifelong Learner** — Constantly upskilling with the latest technologies and industry trends
 
----
-
-<div align="center">
 
 [![GitHub Followers](https://img.shields.io/github/followers/annsayuri?label=Follow%20Me&style=social)](https://github.com/annsayuri)
 
