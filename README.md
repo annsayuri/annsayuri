@@ -109,10 +109,10 @@ Other         ██░░░░░░░░░░░░░░░░░░░   
 
 ## 💫 Fun Facts About Me
 
-🔐 **Cybersecurity Enthusiast** — Always exploring new security protocols and ethical hacking concepts
-🤖 **AI Explorer** — Fascinated by machine learning, neural networks, and their real-world applications
-🌐 **Full-Stack Developer** — I enjoy both the creativity of frontend design and the logic of backend engineering
-📚 **Lifelong Learner** — Constantly upskilling with the latest technologies and industry trends
+- 🔐 **Cybersecurity Enthusiast** — Always exploring new security protocols and ethical hacking concepts
+- 🤖 **AI Explorer** — Fascinated by machine learning, neural networks, and their real-world applications
+- 🌐 **Full-Stack Developer** — I enjoy both the creativity of frontend design and the logic of backend engineering
+- 📚 **Lifelong Learner** — Constantly upskilling with the latest technologies and industry trends
 
 
 [![GitHub Followers](https://img.shields.io/github/followers/annsayuri?label=Follow%20Me&style=social)](https://github.com/annsayuri)
