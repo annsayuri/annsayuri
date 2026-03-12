@@ -19,7 +19,7 @@
 
 ## 🎓 About Me
 
-🏫 Currently studying at **BCI Campus** and the **University of Colombo School of Computing (UCSC)**
+🏫 Currently studying at **BCI Campus** and the **University of Colombo School of Computing (UCSC)** <br>
 🌱 Proficient in **Full-Stack Development** with hands-on expertise in both frontend and backend technologies
 🔭 Actively exploring **Artificial Intelligence / Machine Learning** and **Cybersecurity** concepts
 💡 Passionate about building efficient, scalable, and secure applications that solve real-world problems
