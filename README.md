@@ -23,7 +23,7 @@
 🌱 Proficient in **Full-Stack Development** with hands-on expertise in both frontend and backend technologies <br>
 🔭 Actively exploring **Artificial Intelligence / Machine Learning** and **Cybersecurity** concepts <br>
 💡 Passionate about building efficient, scalable, and secure applications that solve real-world problems <br>
-🎯 Open to **internships**, **entry-level roles**, and **collaborative projects** in software development or AI
+🎯 Open to **internships**, **entry-level roles**, and **collaborative projects** in software development or AI <br>
 
 📫 Reach me at: **[annsayu12@gmail.com](mailto:annsayu12@gmail.com)**
 
