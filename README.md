@@ -114,12 +114,10 @@ Other         ██░░░░░░░░░░░░░░░░░░░   
 - 🌐 **Full-Stack Developer** — I enjoy both the creativity of frontend design and the logic of backend engineering
 - 📚 **Lifelong Learner** — Constantly upskilling with the latest technologies and industry trends
 
-
-[![GitHub Followers](https://img.shields.io/github/followers/annsayuri?label=Follow%20Me&style=social)](https://github.com/annsayuri)
-
 ## 📌 Quote of the Day
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p>
 
+ [![GitHub Followers](https://img.shields.io/github/followers/annsayuri?label=Follow%20Me&style=social)](https://github.com/annsayuri)
 
 *⚡ "Code is like humor. When you have to explain it, it's bad." — Cory House...*
 
