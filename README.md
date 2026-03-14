@@ -55,6 +55,8 @@
 
 ---
 
+
+
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -69,7 +71,31 @@
 <a href="https://github.com/annsayuri"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=annsayuri&theme=react-dark&bg_color=141321&hide_border=true&area=true&color=FF6B8B&line=FF6B8B&point=FFFFFF" width="100%"/> </a>
 
 ## 🎯 Contribution Metrics
-<table> <tr> <td width="33.3%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annsayuri&theme=radical" width="100%"/> </td> </tr> <tr> <td width="33.3%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annsayuri&theme=radical" width="100%"/> </td> <td width="33.3%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annsayuri&theme=radical" width="100%"/> </td> <td width="33.3%"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=annsayuri&theme=radical&utcOffset=5.5" width="100%"/> </td> </tr> </table>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33.33%">
+      <h3>📊 Top Languages by Repo</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annsayuri&theme=radical" width="100%" alt="Top Languages by Repo"/>
+      <br>
+      <b>Python</b> • <b>Java</b> • <b>C++</b>
+    </td>
+    <td width="33.33%">
+      <h3>📝 Top Languages by Commit</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annsayuri&theme=radical" width="100%" alt="Top Languages by Commit"/>
+      <br>
+      <b>Python</b> • <b>Java</b> • <b>C++</b>
+    </td>
+    <td width="33.33%">
+      <h3>⏰ Commit Activity (UTC +5:30)</h3>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=annsayuri&theme=radical&utcOffset=5.5" width="100%" alt="Commit Activity"/>
+      <br>
+      <b>Peak Hours:</b> 6 • 12 • 18 • 23
+    </td>
+  </tr>
+</table>
 
 ### 📊 Weekly Development Breakdown
 
