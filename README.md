@@ -101,6 +101,15 @@
 </table>
 
 ---
+## 🏔️ GitHub Skyline 3D Contribution Graph
+
+<a href="https://skyline.github.com/annsayuri/2025">
+  <img src="https://skyline.github.com/static/social.png?v=1" width="100%" alt="GitHub Skyline 3D Contribution Graph"/>
+</a>
+
+[![GitHub Skyline](https://img.shields.io/badge/GitHub_Skyline-View_3D_Graph-FF6B8B?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/annsayuri/2025)
+
+---
 
 ### 📊 Commit Distribution by Hour
 <div align="center">
