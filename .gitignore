@@ -1,0 +1,13 @@
+# Model weights
+*.pt
+*.onnx
+*.engine
+
+# YOLO results
+results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
