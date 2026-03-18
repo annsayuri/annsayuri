@@ -1,0 +1,4 @@
+requests
+PyGithub
+python-dotenv
+ultralytics
