@@ -5,7 +5,7 @@
 ### 💻 Full-Stack Developer · AI Enthusiast · Cybersecurity Learner · Sri Lanka 🇱🇰
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B8B&center=true&vCenter=true&width=460&lines=Passionate+Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Cybersecurity+Learner;Building+Scalable+%26+Secure+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B8B&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Cybersecurity+Learner;Building+Scalable+%26+Secure+Apps;Open+for+Internships+%26+Collaborations" alt="Typing SVG" />
 </p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annsayu12@gmail.com)
@@ -19,43 +19,41 @@
 
 ## 🎓 About Me
 
-🏫 Currently studying at **BCI Campus** and the **University of Colombo School of Computing (UCSC)** <br>
-🌱 Proficient in **Full-Stack Development** with hands-on expertise in both frontend and backend technologies <br>
-🔭 Actively exploring **Artificial Intelligence / Machine Learning** and **Cybersecurity** concepts <br>
-💡 Passionate about building efficient, scalable, and secure applications that solve real-world problems <br>
-🎯 Open to **internships**, **entry-level roles**, and **collaborative projects** in software development or AI <br>
+I am a passionate Full-Stack Developer and a student at **BCI Campus** and the **University of Colombo School of Computing (UCSC)**. My academic journey has equipped me with a strong foundation in software development, and I am eager to apply my skills to solve real-world problems.
 
-📫 Reach me at: **[annsayu12@gmail.com](mailto:annsayu12@gmail.com)**
+- 🔭 I'm currently focused on deepening my knowledge in **Full-Stack Development**.
+- 🤖 I'm actively exploring **Artificial Intelligence / Machine Learning** and **Cybersecurity**.
+- 💡 I enjoy building efficient, scalable, and secure applications.
+- 🎯 I am actively seeking **internship opportunities** to contribute to a dynamic team and gain industry experience.
+- 📫 Let's connect: **[annsayu12@gmail.com](mailto:annsayu12@gmail.com)**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 🎨 Frontend Development
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Backend Development
+### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🗄️ Databases
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Data Science & Analytics
+### Data Science
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-
 
 ## 📈 GitHub Analytics
 
@@ -64,123 +62,94 @@
 </p>
 
 ---
+
 ## 📊 Modern GitHub Stats Dashboard
+
 <div align="center">
-  
-# 🌟 Activity Graph
+
+### 🌟 Activity Graph
 
 <a href="https://github.com/annsayuri"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=annsayuri&theme=react-dark&bg_color=141321&hide_border=true&area=true&color=FF6B8B&line=FF6B8B&point=FFFFFF&custom_title=Ann's%20Contribution%20Graph&height=400" width="100%" alt="Activity Graph"/> 
 </a>
 
-## 🎯 Contribution Metrics
+### 🎯 Contribution Metrics
 
-<div align="center">
+<br>
 
-<table>
+<table align="center">
   <tr>
-    <td width="33.33%">
+    <td align="center" width="33.33%">
       <h3>📊 Top Languages by Repo</h3>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annsayuri&theme=radical" width="100%" alt="Top Languages by Repo"/>
       <br>
-      <b>Python</b> • <b>Java</b> • <b>C++</b>
+      <i>Primary languages in my repositories</i>
     </td>
-    <td width="33.33%">
+    <td align="center" width="33.33%">
       <h3>📝 Top Languages by Commit</h3>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annsayuri&theme=radical" width="100%" alt="Top Languages by Commit"/>
       <br>
-      <b>Python</b> • <b>Java</b> • <b>C++</b>
+      <i>Languages I commit with most frequently</i>
     </td>
-    <td width="33.33%">
-      <h3>⏰ Commit Activity (UTC +5:30)</h3>
+    <td align="center" width="33.33%">
+      <h3>⏰ Peak Coding Hours</h3>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=annsayuri&theme=radical&utcOffset=5.5" width="100%" alt="Commit Activity"/>
       <br>
-      <b>Peak Hours:</b> 6 • 12 • 18 • 23
+      <i>Active: 6-8, 10-14, 18-20 (UTC+5:30)</i>
     </td>
   </tr>
 </table>
 
----
-## 🏔️ GitHub Skyline 3D Contribution Graph
-
-<a href="https://skyline.github.com/annsayuri/2025">
-  <img src="https://skyline.github.com/static/social.png?v=1" width="100%" alt="GitHub Skyline 3D Contribution Graph"/>
-</a>
-
-[![GitHub Skyline](https://img.shields.io/badge/GitHub_Skyline-View_3D_Graph-FF6B8B?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/annsayuri/2025)
-
----
-
-### 📊 Commit Distribution by Hour
-<div align="center">
-
-```text  
-00-02 ░░░░░░░░░░░░░░░░░░░░░░░░ 2%
-02-04 ░░░░░░░░░░░░░░░░░░░░░░░░ 1%
-04-06 ░░░░░░░░░░░░░░░░░░░░░░░░ 3%
-06-08 ███████░░░░░░░░░░░░░░░░░ 12%
-08-10 ████████░░░░░░░░░░░░░░░░ 14%
-10-12 ██████████░░░░░░░░░░░░░░ 16%
-12-14 ███████░░░░░░░░░░░░░░░░░ 12%
-14-16 ██████░░░░░░░░░░░░░░░░░░ 10%
-16-18 █████░░░░░░░░░░░░░░░░░░░ 8%
-18-20 ████████░░░░░░░░░░░░░░░░ 14%
-20-22 ███░░░░░░░░░░░░░░░░░░░░░ 5%
-22-24 ██░░░░░░░░░░░░░░░░░░░░░░ 3%
-```
-
-### 📊 Weekly Development Breakdown
-
-```text
-Python        ██████████░░░░░░░░░░░   45%
-Java          ██████░░░░░░░░░░░░░░░   25%
-HTML/CSS      ████░░░░░░░░░░░░░░░░░   15%
-JavaScript    ███░░░░░░░░░░░░░░░░░░   10%
-Other         ██░░░░░░░░░░░░░░░░░░░    5%
-```
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=annsayuri&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophies.vercel.app/?username=annsayuri&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🔧 Technical Skills Summary
+## 💡 Areas of Focus & Growth
 
-| Category | Technologies |
-|---|---|
-| 🎨 **Frontend** | HTML5, CSS3, JavaScript |
-| ⚙️ **Backend** | Python, Java, PHP, C++ |
-| 🗄️ **Database** | MySQL |
-| 📊 **Analytics** | R Programming |
-| 🔧 **Tools** | Git, GitHub, VS Code |
-| 🔐 **Interests** | AI/ML, Cybersecurity |
+While I am proficient in the skills listed above, I am currently investing significant time in:
 
-<div align="center">
-
----
-
-## 💫 Fun Facts About Me
-
-- 🔐 **Cybersecurity Enthusiast** — Always exploring new security protocols and ethical hacking concepts
-- 🤖 **AI Explorer** — Fascinated by machine learning, neural networks, and their real-world applications
-- 🌐 **Full-Stack Developer** — I enjoy both the creativity of frontend design and the logic of backend engineering
-- 📚 **Lifelong Learner** — Constantly upskilling with the latest technologies and industry trends
+| Area | Focus |
+|------|-------|
+| 🚀 **Advanced Full-Stack Development** | Building complex, state-managed applications with modern frameworks |
+| 🤖 **AI/ML Fundamentals** | Exploring machine learning models and their practical applications |
+| 🔐 **Cybersecurity Best Practices** | Understanding secure coding, threat modeling, and ethical hacking |
 
 ---
 
 ## 📌 Quote of the Day
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p>
 
- [![GitHub Followers](https://img.shields.io/github/followers/annsayuri?label=Follow%20Me&style=social)](https://github.com/annsayuri)
+<p align="center"> 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> 
+</p>
 
-*⚡ "Code is like humor. When you have to explain it, it's bad." — Cory House...*
+---
 
-## Thanks for visiting! 👨‍💻✨
+## 📫 Let's Connect!
 
+I'm always open to discussing new opportunities, collaborations, or just having a chat about tech. Feel free to reach out!
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annsayu12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayuri-kotikawaththa)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annsayuri)
+
+[![GitHub Followers](https://img.shields.io/github/followers/annsayuri?label=Follow%20Me&style=social)](https://github.com/annsayuri)
+
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+  <br><br>
+  <b>Thanks for visiting! 👨‍💻✨</b>
 </div>
