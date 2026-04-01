@@ -151,5 +151,5 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 <div align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." — Cory House</i>
   <br><br>
-  <b>Thanks for visiting! 👨‍💻✨</b>
+  <b><h2> Thanks for visiting! 👨‍💻✨</h2></b>
 </div>
