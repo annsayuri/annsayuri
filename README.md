@@ -10,6 +10,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annsayu12@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=annsayuri&color=FF6B8B&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/annsayuri)
+[![DEV](https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sayuri_kotikawaththa_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayuri-kotikawaththa)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annsayuri)
 
@@ -140,9 +141,10 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annsayu12@gmail.com)
+[![DEV](https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sayuri_kotikawaththa_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayuri-kotikawaththa)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annsayuri)
-[![DEV](https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sayuri_kotikawaththa_)
+
 
 [![GitHub Followers](https://img.shields.io/github/followers/annsayuri?label=Follow%20Me&style=social)](https://github.com/annsayuri)
 
