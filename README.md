@@ -61,8 +61,21 @@ I am a passionate Full-Stack Developer and a student at **BCI Campus** and the *
 ## 📈 GitHub Analytics
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=annsayuri&theme=radical&fire=FF6B8B&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📊 Modern GitHub Stats Dashboard
+
+<div align="center">
+
+### 🌟 Activity Graph
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=annsayuri&theme=minimal" width="100%"/>
 </p>
+
 
 ---
 
