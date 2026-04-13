@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=220&section=header&text=Ann%20Sayuri%20S.%20Kotikawaththa&fontAlign=50&fontAlignY=50&fontSize=48&animation=fadeIn&shadow=true&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:004e92,100:8E2DE2&height=220&section=header&text=Ann%20Sayuri%20S.%20Kotikawaththa&fontAlign=50&fontAlignY=50&fontSize=48&animation=fadeIn&shadow=true&fontColor=ffffff"/>
 </p>
 
 ### 💻 Full-Stack Developer · AI Enthusiast · Cybersecurity Learner · Sri Lanka 🇱🇰
