@@ -66,16 +66,6 @@ I am a passionate Full-Stack Developer and a student at **BCI Campus** and the *
 
 ---
 
-## 📊 Modern GitHub Stats Dashboard
-
-<div align="center">
-
-### 🌟 Activity Graph
-
-<a href="https://github.com/annsayuri"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=annsayuri&theme=react-dark&bg_color=141321&hide_border=true&area=true&color=FF6B8B&line=FF6B8B&point=FFFFFF&custom_title=Ann's%20Contribution%20Graph&height=400" width="100%" alt="Activity Graph"/> 
-</a>
-
 ### 🎯 Contribution Metrics
 
 <br>
