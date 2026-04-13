@@ -1,7 +1,4 @@
-<table width="100%" bgcolor="#0a0a2a" style="background-color: #0a0a2a; border: 0;">
-  <tr>
-    <td>
-      <div align="center">
+<div align="center">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:004e92,100:8E2DE2&height=220&section=header&text=Ann%20Sayuri%20S.%20Kotikawaththa&fontAlign=50&fontAlignY=50&fontSize=48&animation=fadeIn&shadow=true&fontColor=ffffff"/>
@@ -161,7 +158,3 @@ I'm always open to discussing new opportunities, collaborations, or just having 
   <br><br>
   <b><h2> Thanks for visiting! 👨‍💻✨</h2></b>
 </div>
-
-    </td>
-  </tr>
-</table>
