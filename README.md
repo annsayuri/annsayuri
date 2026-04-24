@@ -45,6 +45,7 @@ I am a passionate Full-Stack Developer and a student at **BCI Campus** and the *
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Servlet](https://img.shields.io/badge/Java%20Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -60,6 +61,7 @@ I am a passionate Full-Stack Developer and a student at **BCI Campus** and the *
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-1F8ACB?style=for-the-badge&logo=visual-paradigm&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 ### Office Tools
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
