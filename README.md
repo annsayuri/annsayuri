@@ -75,6 +75,11 @@
 >   <img src="https://github-readme-activity-graph.vercel.app/graph?username=annsayuri&theme=react-dark&bg_color=141321&hide_border=true&area=true&color=FF6B8B&line=FF6B8B&point=FFFFFF&custom_title=Ann's%20Contribution%20Graph&height=400" width="100%" alt="Activity Graph"/> 
 > </a>
 > 
+> #### ⚡ GitHub Overview Stats
+> <p align="center">
+>   <img src="https://github-readme-stats.vercel.app/api?username=annsayuri&show_icons=true&theme=radical&hide_border=true&title_color=FF6B8B&icon_color=8E2DE2&text_color=ffffff&bg_color=141321" width="70%" alt="Ann's GitHub Stats" />
+> </p>
+> 
 > #### 🎯 Contribution Metrics
 > <table align="center">
 >   <tr>
