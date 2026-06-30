@@ -20,7 +20,7 @@
 
 ---
 
-## 🎓 About Me
+# 🎓 About Me
 
 I am a passionate Full-Stack Developer and a student at **BCI Campus** and the **University of Colombo School of Computing (UCSC)**. My academic journey has equipped me with a strong foundation in software development, and I am eager to apply my skills to solve real-world problems.
 
@@ -32,30 +32,30 @@ I am a passionate Full-Stack Developer and a student at **BCI Campus** and the *
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### Frontend
+## Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend
+## Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Java%20Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### Database
+## Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Data Science
+## Data Science
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Tools & Platforms
+## Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -63,16 +63,16 @@ I am a passionate Full-Stack Developer and a student at **BCI Campus** and the *
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-### Office Tools
+## Office Tools
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
 
-### Documentation & Typesetting
+## Documentation & Typesetting
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
-## 📈 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=annsayuri&theme=radical&fire=FF6B8B&hide_border=true" alt="GitHub Streak" />
@@ -80,11 +80,11 @@ I am a passionate Full-Stack Developer and a student at **BCI Campus** and the *
 
 ---
 
-## 📊 Modern GitHub Stats Dashboard
+# 📊 Modern GitHub Stats Dashboard
 
 <div align="center">
 
-### 🌟 Activity Graph
+## 🌟 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=annsayuri&theme=minimal" width="100%"/>
@@ -93,7 +93,7 @@ I am a passionate Full-Stack Developer and a student at **BCI Campus** and the *
 
 ---
 
-### 🎯 Contribution Metrics
+## 🎯 Contribution Metrics
 
 <br>
 
@@ -124,7 +124,7 @@ I am a passionate Full-Stack Developer and a student at **BCI Campus** and the *
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=annsayuri&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies"/>
@@ -132,7 +132,7 @@ I am a passionate Full-Stack Developer and a student at **BCI Campus** and the *
 
 ---
 
-## 💡 Areas of Focus & Growth
+# 💡 Areas of Focus & Growth
 
 While I am proficient in the skills listed above, I am currently investing significant time in:
 
@@ -144,7 +144,7 @@ While I am proficient in the skills listed above, I am currently investing signi
 
 ---
 
-## 📌 Quote of the Day
+# 📌 Quote of the Day
 
 <p align="center"> 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> 
@@ -152,7 +152,7 @@ While I am proficient in the skills listed above, I am currently investing signi
 
 ---
 
-## 📫 Let's Connect!
+# 📫 Let's Connect!
 
 I'm always open to discussing new opportunities, collaborations, or just having a chat about tech. Feel free to reach out!
 
