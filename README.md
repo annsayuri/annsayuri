@@ -61,8 +61,8 @@
 > [!TIP]
 > ### 📈 GitHub Analytics
 > <p align="center">
->   <img src="https://streak-stats.demolab.com/?user=annsayuri&theme=radical&fire=FF6B8B&hide_border=true" alt="GitHub Streak" />
-> </p>
+
+>   <img src="https://streak-stats.demolab.com/?user=annsayuri&theme=radical&fire=FF6B8B&hide_border=true&v=2" alt="GitHub Streak" />
 
 <br>
 
