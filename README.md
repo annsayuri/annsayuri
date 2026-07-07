@@ -62,8 +62,8 @@
 > ### 📈 GitHub Analytics
 > <p align="center">
 
->   <img src="https://streak-stats.demolab.com/?user=annsayuri&theme=radical&fire=FF6B8B&hide_border=true&v=2" alt="GitHub Streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annsayuri&layout=compact&theme=radical&hide_border=true&title_color=FF6B8B&text_color=ffffff&bg_color=141321" alt="Top Languages" />
+</p>
 <br>
 
 > [!NOTE]
