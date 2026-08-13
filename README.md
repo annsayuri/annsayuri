@@ -22,7 +22,7 @@
 
 > [!NOTE]
 > ### 🎓 About Me
-> I am a passionate Full-Stack Developer and a student at **BCI Campus** and the **University of Colombo School of Computing (UCSC)**. My academic journey has equipped me with a strong foundation in software development, and I am eager to apply my skills to solve real-world problems.
+> I am a passionate Full-Stack Developer and a student at **(Benedict(XVI) Catholic Institute(BCI) Campus in Negombo** and the **University of Colombo School of Computing (UCSC)**. My academic journey has equipped me with a strong foundation in software development, and I am eager to apply my skills to solve real-world problems.
 > 
 > - 🔭 I'm currently focused on deepening my knowledge in **Full-Stack Development**.
 > - 🤖 I'm actively exploring **Artificial Intelligence / Machine Learning** and **Cybersecurity**.
